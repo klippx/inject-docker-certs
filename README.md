@@ -13,9 +13,7 @@ Error response from daemon: Get https://somehost/...: x509: certificate signed b
 
 You need to inject your ca into docker!
 
-Visit [this repo](https://github.com/gesellix/inject-docker-certs) for a complete and easy guide.
-
-This repo is the SHOW ME THE MONEY version, since "easy" is not easy enough, we all have stuff to do and business to go about.
+This solution is the SHOW ME THE MONEY version, since "easy" is not easy enough, we all have stuff to do and business to go about. But for reference, [this repo](https://github.com/gesellix/inject-docker-certs) is the original version with a complete guide and everything.
 
 So,
 
