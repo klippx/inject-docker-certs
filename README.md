@@ -7,13 +7,9 @@
 Error response from daemon: Get https://somehost/...: x509: certificate signed by unknown authority
 ```
 
-![Feels bad man](https://s3-static-ak.buzzfed.com/static/2016-02/2/11/campaign_images/webdr04/are-you-actually-a-meme-bob-or-a-meme-snob-2-7455-1454431596-7_dblbig.jpg "Feels bad man")
-
 ## We got you covered!
 
-You need to inject your ca into docker!
-
-This solution is the SHOW ME THE MONEY version, since "easy" is not easy enough, we all have stuff to do and business to go about. But for reference, [this repo](https://github.com/gesellix/inject-docker-certs) is the original version with a complete guide and everything.
+To solve this, you want to inject your certificate into the docker xhyve VM.
 
 So,
 
