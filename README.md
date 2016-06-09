@@ -3,9 +3,8 @@
 ## Is this you?
 
 ```
-╭─mathias.klippinge at SE-C02PPAD5G8WP in ~/src/mood-test on master✘✘✘ using ‹ruby-2.3.1› 16-06-09 - 11:03:08
-╰─○ docker pull docker.staging.eu1.order-management.klarna.net/dynakafka-application:latest
-Error response from daemon: Get https://docker.staging.eu1.order-management.klarna.net/v1/_ping: x509: certificate signed by unknown authority
+> docker pull somehost/some-image:latest
+Error response from daemon: Get https://somehost/...: x509: certificate signed by unknown authority
 ```
 
 ![Feels bad man](https://s3-static-ak.buzzfed.com/static/2016-02/2/11/campaign_images/webdr04/are-you-actually-a-meme-bob-or-a-meme-snob-2-7455-1454431596-7_dblbig.jpg "Feels bad man")
