@@ -1,1 +1,4 @@
-certs
+*.crt
+*.pem
+*.cer
+*.cert
