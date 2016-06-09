@@ -8,7 +8,7 @@
 Error response from daemon: Get https://docker.staging.eu1.order-management.klarna.net/v1/_ping: x509: certificate signed by unknown authority
 ```
 
-![Feels bad man](![Alt text](/relative/path/to/img.jpg?raw=true "Optional Title") "Feels bad man")
+![Feels bad man](https://s3-static-ak.buzzfed.com/static/2016-02/2/11/campaign_images/webdr04/are-you-actually-a-meme-bob-or-a-meme-snob-2-7455-1454431596-7_dblbig.jpg "Feels bad man")
 
 ## We got you covered!
 
